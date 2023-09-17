@@ -1,0 +1,14 @@
+debug/chartview.o
+debug/main.o
+debug/mainwindow.o
+debug/motorwork.o
+debug/protocol.o
+debug/serialworker.o
+debug/settingsdialog.o
+debug/console.o
+debug/qrc_icone.o
+debug/moc_chartview.o
+debug/moc_mainwindow.o
+debug/moc_serialworker.o
+debug/moc_settingsdialog.o
+debug/moc_console.o

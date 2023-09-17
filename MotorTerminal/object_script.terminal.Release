@@ -1,0 +1,14 @@
+release/chartview.o
+release/main.o
+release/mainwindow.o
+release/motorwork.o
+release/protocol.o
+release/serialworker.o
+release/settingsdialog.o
+release/console.o
+release/qrc_icone.o
+release/moc_chartview.o
+release/moc_mainwindow.o
+release/moc_serialworker.o
+release/moc_settingsdialog.o
+release/moc_console.o
